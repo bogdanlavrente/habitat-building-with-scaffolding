@@ -14,7 +14,7 @@
 
 # metadata, and so on.
 
-pkg_name=habitat-building-with-scaffolding
+pkg_name=meme-machine
 
 
 
